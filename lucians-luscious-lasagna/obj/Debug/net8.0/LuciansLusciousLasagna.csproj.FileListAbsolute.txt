@@ -98,3 +98,4 @@ C:\Users\marci\Exercism\csharp\lucians-luscious-lasagna\obj\Debug\net8.0\refint\
 C:\Users\marci\Exercism\csharp\lucians-luscious-lasagna\obj\Debug\net8.0\LuciansLusciousLasagna.pdb
 C:\Users\marci\Exercism\csharp\lucians-luscious-lasagna\obj\Debug\net8.0\LuciansLusciousLasagna.genruntimeconfig.cache
 C:\Users\marci\Exercism\csharp\lucians-luscious-lasagna\obj\Debug\net8.0\ref\LuciansLusciousLasagna.dll
+c:\Users\marci\Exercism\csharp\lucians-luscious-lasagna\obj\Debug\net8.0\LuciansLusciousLasagna.sourcelink.json
