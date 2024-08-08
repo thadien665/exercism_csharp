@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marci\\Exercism\\csharp\\lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj": {}
+    "c:\\Users\\marci\\Exercism\\csharp\\lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marci\\Exercism\\csharp\\lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj": {
+    "c:\\Users\\marci\\Exercism\\csharp\\lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marci\\Exercism\\csharp\\lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj",
+        "projectUniqueName": "c:\\Users\\marci\\Exercism\\csharp\\lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj",
         "projectName": "LuciansLusciousLasagna",
-        "projectPath": "C:\\Users\\marci\\Exercism\\csharp\\lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj",
+        "projectPath": "c:\\Users\\marci\\Exercism\\csharp\\lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj",
         "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marci\\Exercism\\csharp\\lucians-luscious-lasagna\\obj\\",
+        "outputPath": "c:\\Users\\marci\\Exercism\\csharp\\lucians-luscious-lasagna\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marci\\AppData\\Roaming\\NuGet\\NuGet.Config"

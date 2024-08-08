@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PruN7o+uiwI=",
+  "dgSpecHash": "3hBcJPR+pP4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\marci\\Exercism\\csharp\\lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj",
+  "projectFilePath": "c:\\Users\\marci\\Exercism\\csharp\\lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marci\\.nuget\\packages\\exercism.tests\\0.1.0-beta1\\exercism.tests.0.1.0-beta1.nupkg.sha512",
     "C:\\Users\\marci\\.nuget\\packages\\microsoft.codecoverage\\16.8.3\\microsoft.codecoverage.16.8.3.nupkg.sha512",
